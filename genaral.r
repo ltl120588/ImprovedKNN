@@ -1,4 +1,3 @@
-setwd("E:/KNN-improved")
 library(class)
 
 findno<-function(o,xcc)
